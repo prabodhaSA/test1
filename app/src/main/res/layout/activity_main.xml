@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="prabodha"
+        android:text="@string/prabodha"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.167"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -27,7 +27,7 @@
         android:layout_marginEnd="97dp"
         android:layout_marginRight="97dp"
         android:layout_marginBottom="334dp"
-        android:text="uditha"
+        android:text="@string/uditha"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -37,7 +37,7 @@
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="sampath"
+        android:text="@string/sampath"
         tools:layout_editor_absoluteX="131dp"
         tools:layout_editor_absoluteY="163dp" />
 
